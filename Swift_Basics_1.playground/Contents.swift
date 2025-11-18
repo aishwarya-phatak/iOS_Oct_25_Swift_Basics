@@ -2,7 +2,6 @@ import Cocoa
 
 var greeting = "Hello, playground"
 
-
 var n = 19
 print("Value of n is : \(n)")
 
