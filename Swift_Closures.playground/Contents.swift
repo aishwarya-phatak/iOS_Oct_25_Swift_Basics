@@ -136,3 +136,11 @@ var sum1 = arr2.reduce(into: 0) { sum, x in
         sum = sum + x
 }
 print(sum1)
+
+
+
+var sum2 = arr2.reduce(into: 10) { sum, x in
+    sum = sum + x
+}
+
+print(sum2)
